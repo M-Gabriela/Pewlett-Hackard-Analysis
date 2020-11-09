@@ -10,7 +10,7 @@ The four major points from the two analysis deliverables are:
 
 * 90,398 employees are retiring. 
 * Almost 50% of these employees have held more than one title in the company. 
-* According to Table 1 - Retirement Titles, 33% of the retire-eligible employees held a Senior Engineer position, followed by Senior Staffs which represent 31% of the employees to retire, 16% are Engineers, 14% Staff, and the remaining are Technique Leaders, Assistant Engineer, and 2 Managers.
+* According to Table 1 - Retirement Titles, 33% of the retire-eligible employees held a Senior Engineer position, followed by Senior Staffs which represent 31% of the employees to retire, 16% are Engineers, 14% Staff, and the remaining are Technique Leaders, Assistant Engineer, and Managers.
 
 ![image_name](retirement_title.png)
 #### Table 1 - Retirement Titles 
